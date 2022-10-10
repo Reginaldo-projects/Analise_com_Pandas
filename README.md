@@ -1,14 +1,14 @@
 <h1 align="center">🐼Análise com Pandas e Gráficos com Matplotlib</h1>
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/reginaldo-projects/Analise_com_Pandas)
-
- 
+<span align="center">
+<img align="center" height="30em" alt="Tamanho" src="https://img.shields.io/github/languages/code-size/reginaldo-projects/Analise_com_Pandas"/>
+</span>
  
  
  
 ## 🏷 Descrição 
 
 <p align="justify">
-Projeto com a finalidade de tratar os dados e gerar gráficos que mostram os resultado de faturamento e volume.
+Projeto com a finalidade de tratar os dados e gerar gráficos que mostram os resultados de faturamento e volume.
 <br />
 
 </p>
@@ -54,9 +54,12 @@ total = total[['Valor_Total']].sort_values(by="Lojas",ascending=True)
   </code>
 </pre>
         Total de clientes:
+        <br/>
 30
+<br/>
 ------------------------------------------------------------------------------------------------------------------------
-<img alingn="center" height="300em" src=".img/output.png"/>
+<br/>
+<img align="center" height="300em" src="output.png"/>
  
 
 
@@ -72,7 +75,7 @@ total = total[['Valor_Total']].sort_values(by="Lojas",ascending=True)
   <tr>
     <td align="center">
       <a href="https://github.com/Reginaldo-projects">
-        <img src="https://avatars.githubusercontent.com/u/112530481" width="100px;" alt="projects"/><br>
+        <img src="https://avatars.githubusercontent.com/u/112530481" width="100px" alt="projects"/><br>
         <sub>
           <b>Reginaldo Barbosa</b>
         </sub>
