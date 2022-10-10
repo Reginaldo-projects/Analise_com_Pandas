@@ -16,7 +16,8 @@ Projeto com a finalidade de tratar os dados e gerar gráficos que mostram os res
 
 ## 💻 Resultado
 
-<p align="center">Código<a href="https://github.com/Reginaldo-projects/Analise_com_Pandas/blob/main/Modelagem%20com%20pandas%20Dash%20com%20Matplotlib.ipynb" target="_blank"></a> aqui</p>
+<p>Projeto <a href="https://github.com/Reginaldo-projects/Analise_com_Pandas/blob/main/Modelagem%20com%20pandas%20Dash%20com%20Matplotlib.ipynb" target="_blank">aqui</a>.</p>
+
 <br/>
 <br/>
 <p>Segue parte do código, para gerar um conjunto de gráficos.</p>
